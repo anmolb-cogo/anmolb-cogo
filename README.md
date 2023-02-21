@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=anmolbansal7&color=blueviolet" alt="Anmol | Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=anmolb-cogo&color=blueviolet" alt="Anmol | Profile Views" />
 </div>
 </br>
 <p align="center">
-    <code>I am <strong>Anmol Bansal</strong>, a Final Year Student at <em>VIT, Vellore</em>, majoring in <strong>Computer Science</strong>. I am a <strong>Full Stack Web Developer.</strong></code>
+    <code>I am <strong>Anmol Bansal</strong>, a Final Year Student from <em>VIT, Vellore</em>, currently working as <strong>SDE Intern at Cogoport</strong>. I am a <strong>Frontend Developer.</strong></code>
 </p>
 
 <h2 align="center">
@@ -15,7 +15,7 @@
 </h2>
 
 <!---- 👨🏽‍💻 I’m currently working on <strong>something exciting</strong>  <em> <a href="https://evoevents.club/"> check it out </a> </em> -->
-- 🌱 I’m currently learning **Full Stack Development and DSA** 
+- 🌱 I’m currently learning **Full Stack Development and Next.js** 
 - 👯 I’m looking to **collaborate** on Web Development Projects
 - ⚡ Talk to me about **Business Ideas💡, Development👨‍💻 and Cricket🏏**
 - 🥅 **2023 Goals:** Learn and Explore
@@ -57,13 +57,13 @@
 </h2>
 <div align="center">
  
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=anmolbansal7&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22]&count_private=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=anmolb-cogo&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22]&count_private=true)
 
 </div>
 
 <div align="center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolbansal7&langs_count=5&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolb-cogo&langs_count=5&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22])
 </div>
 
 
@@ -81,11 +81,8 @@
     <a href="https://www.twitter.com/anmollbansall" target="_blank">
         <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" target="_blank"  alt="Anmol | Twitter" width="40px" >
     </a>
-    <a href="mailto:abanmolbansal5@gmail.com" target="_blank">
-        <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Anmol | Gmail" width="40px" >
+    <a href="mailto:anmol.bansal@cogoport.com" target="_blank">
+        <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Anmol | Mail" width="40px" >
     </a>    
 </p>
-<br>
-
-### <p align="center">Show some ❤️ by starring some of the repositories!</p>
 <br>
