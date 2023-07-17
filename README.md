@@ -7,7 +7,7 @@
 </div>
 </br>
 <p align="center">
-    <code>I am <strong>Anmol Bansal</strong>, a Final Year Student from <em>VIT, Vellore</em>, currently working as <strong>SDE Intern at Cogoport</strong>. I am a <strong>Frontend Developer.</strong></code>
+    <code> I am <strong>Anmol Bansal</strong>, a Frontend Developer currently working as a <strong>Software Development Engineer at Cogoport</strong>, focused on creating exceptional user experiences.</code>
 </p>
 
 <h2 align="center">
@@ -15,12 +15,11 @@
 </h2>
 
 <!---- 👨🏽‍💻 I’m currently working on <strong>something exciting</strong>  <em> <a href="https://evoevents.club/"> check it out </a> </em> -->
-- 🌱 I’m currently learning **Full Stack Development and Next.js** 
-- 👯 I’m looking to **collaborate** on Web Development Projects
-- ⚡ Talk to me about **Business Ideas💡, Development👨‍💻 and Cricket🏏**
+- 🌱 I’m currently learning **Next.js and Typescript**
+- ⚡ Talk to me about **Business Ideas💡, Technology👨‍💻 and Cricket🏏**
 - 🥅 **2023 Goals:** Learn and Explore
 - 😄 Pronouns: **He/Him**
-<!--- 📝 **[My Resume](https://evoevents.club/)**-->
+- 📝 [My Links](https://anmolbansal.xyz/)
 
  
 <h2 align="center">
